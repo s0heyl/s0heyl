@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @s0heyl
 - 👀 I’m interested in Codes, Bots and AI
-- 🌱 I’m currently learning Python 
 - 📫 How to reach me Twitter.com/thes0heyl
 
 <!---
